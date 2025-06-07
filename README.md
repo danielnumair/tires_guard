@@ -95,11 +95,11 @@ Ele é composto por um aplicativo mobile desenvolvido em Flutter.
 * **Image Picker**: Captura de fotos com a câmera do dispositivo;
 * **Intl**: Formatação de datas e localização;
 
-## 👤 Autor
+## 👤 Autores
 
-Daniel Numair
-Diuly Jorge Rocha
-Gabryelle da Rocha Medeiros
+Daniel Numair  
+Diuly Jorge Rocha  
+Gabryelle da Rocha Medeiros  
 
 ---
 

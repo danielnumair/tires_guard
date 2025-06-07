@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Android local config
+android/local.properties
+
+# iOS build folders (caso compile para iOS no futuro)
+ios/Pods/
+ios/Runner.xcworkspace/
